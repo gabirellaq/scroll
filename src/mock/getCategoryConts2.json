@@ -1,0 +1,295 @@
+{
+    "resultCode": "1",
+    "resultMsg": "success",
+    "reqId": "4af31b17-59e9-4f64-a983-5f445ee33f79",
+    "systemTime": "1524810201510",
+    "totalPage": 8,
+    "areaList": [
+        {
+            "area_id": "101001",
+            "expInfo": {
+                "algorighm_exp_id": "",
+                "front_exp_id": "0",
+                "s_value": "4af31b17-59e9-4f64-a983-5f445ee33f79_34744418584540413"
+            }
+        },
+        {
+            "area_id": "101002",
+            "expInfo": {
+                "algorighm_exp_id": "0",
+                "front_exp_id": "0",
+                "s_value": "0"
+            }
+        }
+    ],
+    "categoryInfo": {
+        "categoryId": "4",
+        "name": "娱乐",
+        "color": "#E966AE"
+    },
+    "nextUrl": "http://app.pearvideo.com/clt/jsp/v2/getCategoryConts.jsp?categoryId=4&start=10",
+    "hotList": [
+        {
+            "contId": "1332429",
+            "name": "王思聪不想看烂片，决定培养新导演",
+            "pic": "http://image2.pearvideo.com/cont/20180426/cont-1332429-11185256.jpg",
+            "nodeInfo": {
+                "nodeId": "66",
+                "name": "水煮娱",
+                "logoImg": "http://image2.pearvideo.com/node/66-10035464-logo.jpg"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "00'58\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "257"
+        },
+        {
+            "contId": "1332354",
+            "name": "谢霆锋跨界参加厨艺比赛被骂惨",
+            "pic": "http://image2.pearvideo.com/cont/20180426/cont-1332354-11184890.png",
+            "nodeInfo": {
+                "nodeId": "2065",
+                "name": "上镜",
+                "logoImg": "http://image1.pearvideo.com/node/2065-10671274-logo.png"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "01'27\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "275"
+        },
+        {
+            "contId": "1327066",
+            "name": "仨超模助阵模特选拔,刘雯:个性重要",
+            "pic": "http://image1.pearvideo.com/cont/20180420/cont-1327066-11168017.PNG",
+            "nodeInfo": {
+                "nodeId": "35",
+                "name": "OMG!",
+                "logoImg": "http://image2.pearvideo.com/node/35-10030502-logo.jpg"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "05'34\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "0"
+        }
+    ],
+    "contList": [
+        {
+            "contId": "1332725",
+            "name": "周杰伦仔仔假装打架，整蛊一群大咖",
+            "pic": "http://image1.pearvideo.com/cont/20180427/cont-1332725-11186227.jpg",
+            "nodeInfo": {
+                "nodeId": "66",
+                "name": "水煮娱",
+                "logoImg": "http://image2.pearvideo.com/node/66-10035464-logo.jpg"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "01'31\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "0"
+        },
+        {
+            "contId": "1331904",
+            "name": "\"武林外传\"拍摄花絮,满满的回忆啊!",
+            "pic": "http://image.pearvideo.com/main/20180426/11842934-222424-0.png",
+            "nodeInfo": {
+                "nodeId": "66",
+                "name": "水煮娱",
+                "logoImg": "http://image2.pearvideo.com/node/66-10035464-logo.jpg"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "01'00\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "30"
+        },
+        {
+            "contId": "1332645",
+            "name": "马丽计划明后年要孩子：喜欢宝宝",
+            "pic": "http://image1.pearvideo.com/main/20180427/11841223-121823-0.png",
+            "nodeInfo": {
+                "nodeId": "66",
+                "name": "水煮娱",
+                "logoImg": "http://image2.pearvideo.com/node/66-10035464-logo.jpg"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "00'38\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "22"
+        },
+        {
+            "contId": "1332492",
+            "name": "全世界最柔软的男人",
+            "pic": "http://image1.pearvideo.com/main/20180427/10023871-105743-0.png",
+            "nodeInfo": {
+                "nodeId": "120",
+                "name": "一条",
+                "logoImg": "http://image1.pearvideo.com/node/120-10049056-logo.jpg"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "03'23\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "0"
+        },
+        {
+            "contId": "1332608",
+            "name": "影视剧的职业女强人是如何炼成的？",
+            "pic": "http://image2.pearvideo.com/main/20180427/10002550-104535-0.png",
+            "nodeInfo": {
+                "nodeId": "53",
+                "name": "视知TV",
+                "logoImg": "http://image1.pearvideo.com/node/53-10045375-logo.jpg"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "03'32\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "2"
+        },
+        {
+            "contId": "1332545",
+            "name": "学霸新作！《创造101》主题曲编舞",
+            "pic": "http://image2.pearvideo.com/cont/20180427/cont-1332545-11186087.jpg",
+            "nodeInfo": {
+                "nodeId": "1348",
+                "name": "口袋舞蹈",
+                "logoImg": "http://image2.pearvideo.com/node/1348-10450919-logo.png"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "03'04\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "0"
+        },
+        {
+            "contId": "1332480",
+            "name": "流星花园重播，大S说不喜欢杉菜",
+            "pic": "http://image1.pearvideo.com/cont/20180427/cont-1332480-11185690.jpg",
+            "nodeInfo": {
+                "nodeId": "641",
+                "name": "乾朵匣子",
+                "logoImg": "http://image1.pearvideo.com/node/641-10165006-logo.png"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "02'17\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "0"
+        },
+        {
+            "contId": "1332681",
+            "name": "几分钟看《飙风战警》",
+            "pic": "http://image1.pearvideo.com/main/20180427/10793334-110915-0.png",
+            "nodeInfo": {
+                "nodeId": "1173",
+                "name": "牛叔说电影",
+                "logoImg": "http://image1.pearvideo.com/node/1173-10409896-logo.png"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "08'06\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "0"
+        },
+        {
+            "contId": "1332487",
+            "name": "汽车旅馆怪事频发的烧脑电影",
+            "pic": "http://image1.pearvideo.com/main/20180426/11682301-233309-0.png",
+            "nodeInfo": {
+                "nodeId": "2784",
+                "name": "阅读障碍联盟",
+                "logoImg": "http://image2.pearvideo.com/node/2784-10932125-logo.png"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "",
+            "cornerLabelDesc": "",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "05'10\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "0"
+        },
+        {
+            "contId": "1332655",
+            "name": "韩寒大赞奶茶刘若英,自曝唱K尴尬事",
+            "pic": "http://image1.pearvideo.com/cont/20180427/cont-1332655-11186155.jpg",
+            "nodeInfo": {
+                "nodeId": "1232",
+                "name": "梨上海",
+                "logoImg": "http://image2.pearvideo.com/node/1232-10425806-logo.png"
+            },
+            "link": "http://",
+            "linkType": "0",
+            "cornerLabel": "3",
+            "cornerLabelDesc": "独播",
+            "forwordType": "1",
+            "videoType": "1",
+            "duration": "00'55\u0022",
+            "liveStatus": "",
+            "liveStartTime": "",
+            "praiseTimes": "314"
+        }
+    ]
+}
