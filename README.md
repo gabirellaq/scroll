@@ -1,4 +1,4 @@
-# bettersroll
+# scroll
 
 > A Vue.js project
 
@@ -17,6 +17,9 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+## 官方API
+* [mescroll](https://github.com/mescroll/mescroll)
 
 ## 资料
 * [API详细说明](https://blog.csdn.net/u010568344/article/details/78630300)
